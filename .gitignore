@@ -1,0 +1,12 @@
+data/*
+.vscode*
+._*
+*.png
+checkpoints/*
+*lightning_logs*
+*__
+.DS_Store
+emissions.csv
+*bert*
+run*
+*plot_emissions*
