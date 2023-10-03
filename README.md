@@ -1,6 +1,6 @@
 # CLER
 
-## Crate environment
+## Create environment
 
 ```
 conda create -n cler python=3.11.5 -y
